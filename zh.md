@@ -78,7 +78,7 @@ description: "东南大学智能感知工程本科生，2027 年将赴中国科�
   <article class="education-entry" itemscope itemtype="https://schema.org/EducationalOrganization">
     <img class="education-entry__mark" src="/assets/images/institutions/casia.png" alt="" width="44" height="44" loading="lazy" decoding="async">
     <div class="education-entry__body">
-      <p class="education-entry__when">2027 年起</p>
+      <p class="education-entry__when">2027</p>
       <h3 itemprop="name">中国科学院自动化研究所</h3>
       <p itemprop="description">博士研究生</p>
     </div>

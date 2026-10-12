@@ -70,7 +70,7 @@ description: "Undergraduate in Intelligent Sensing Engineering at Southeast Univ
   <article class="education-entry" itemscope itemtype="https://schema.org/CollegeOrUniversity">
     <img class="education-entry__mark" src="/assets/images/institutions/seu.png" alt="" width="44" height="44" loading="lazy" decoding="async">
     <div class="education-entry__body">
-      <p class="education-entry__when">2023 – 2027 (expected)</p>
+      <p class="education-entry__when">2023 – 2027</p>
       <h3 itemprop="name">Southeast University</h3>
       <p itemprop="description">BEng in Intelligent Sensing Engineering, School of Instrument Science and Engineering.</p>
     </div>
@@ -78,7 +78,7 @@ description: "Undergraduate in Intelligent Sensing Engineering at Southeast Univ
   <article class="education-entry" itemscope itemtype="https://schema.org/EducationalOrganization">
     <img class="education-entry__mark" src="/assets/images/institutions/casia.png" alt="" width="44" height="44" loading="lazy" decoding="async">
     <div class="education-entry__body">
-      <p class="education-entry__when">From 2027</p>
+      <p class="education-entry__when">2027</p>
       <h3 itemprop="name">Institute of Automation, Chinese Academy of Sciences</h3>
       <p itemprop="description">PhD student</p>
     </div>
