@@ -1,23 +1,23 @@
 ---
 layout: default
-title: 胡翔耘
+title: XiangyunHu
 permalink: /
 lang: zh
 author_profile: true
-description: "东南大学智能感知工程本科生，已获推免资格，2027 年将赴中国科学院自动化研究所攻读博士。研究方向为视觉智能与多模态学习。"
+description: "东南大学智能感知工程本科生，2027 年将赴中国科学院自动化研究所攻读博士。研究方向为视觉智能与多模态学习。"
 ---
 
 <section id="about" class="home-section">
   <h2 class="section-kicker">简介</h2>
-  <h1 class="visually-hidden">胡翔耘（XiangyunHu）— 中国科学院自动化研究所准博士研究生</h1>
-  <p class="display-name" aria-hidden="true"><span class="display-name__primary" lang="zh-Hans">胡翔耘</span><span class="native-name" lang="en">XiangyunHu</span></p>
-  <p class="lead">我目前就读于东南大学智能感知工程专业，已获推免资格，将于 2027 年进入中国科学院自动化研究所攻读博士学位。</p>
+  <h1 class="visually-hidden">XiangyunHu — 中国科学院自动化研究所博士研究生</h1>
+  <p class="display-name" aria-hidden="true">XiangyunHu</p>
+  <p class="lead">我目前就读于东南大学智能感知工程专业，将于 2027 年进入中国科学院自动化研究所攻读博士学位。</p>
   <p>我的研究兴趣集中在视觉智能与多模态学习。目前已开展的工作覆盖自动驾驶的环境感知与决策、增材制造中的物理仿真，以及基于学习的康复轨迹生成。</p>
 </section>
 
 <section id="research" class="home-section">
   <h2 class="section-kicker">01 / 研究方向</h2>
-  <p>我关注视觉与多模态系统如何理解复杂环境并支撑可靠的决策。以下是我当前的研究兴趣，也是博士阶段希望深入的方向。</p>
+  <p>我关注视觉与多模态系统如何理解复杂环境并支撑可靠的决策。</p>
 </section>
 
 <section id="work" class="home-section">
@@ -70,9 +70,9 @@ description: "东南大学智能感知工程本科生，已获推免资格，202
   <article class="education-entry" itemscope itemtype="https://schema.org/CollegeOrUniversity">
     <img class="education-entry__mark" src="/assets/images/institutions/seu.png" alt="" width="44" height="44" loading="lazy" decoding="async">
     <div class="education-entry__body">
-      <p class="education-entry__when">2023 – 2027（预计）</p>
+      <p class="education-entry__when">2023 – 2027</p>
       <h3 itemprop="name">东南大学</h3>
-      <p itemprop="description">仪器科学与工程学院，智能感知工程专业，工学学士。</p>
+      <p itemprop="description">仪器科学与工程学院，智能感知工程专业。</p>
     </div>
   </article>
   <article class="education-entry" itemscope itemtype="https://schema.org/EducationalOrganization">
@@ -80,7 +80,7 @@ description: "东南大学智能感知工程本科生，已获推免资格，202
     <div class="education-entry__body">
       <p class="education-entry__when">2027 年起</p>
       <h3 itemprop="name">中国科学院自动化研究所</h3>
-      <p itemprop="description">准博士研究生</p>
+      <p itemprop="description">博士研究生</p>
     </div>
   </article>
 </section>

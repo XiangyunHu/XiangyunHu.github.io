@@ -9,8 +9,8 @@ description: "Undergraduate in Intelligent Sensing Engineering at Southeast Univ
 
 <section id="about" class="home-section">
   <h2 class="section-kicker">About</h2>
-  <h1 class="visually-hidden">XiangyunHu (胡翔耘) - incoming PhD student at the Institute of Automation, Chinese Academy of Sciences</h1>
-  <p class="display-name" aria-hidden="true"><span class="display-name__primary" lang="en">XiangyunHu</span><span class="native-name" lang="zh-CN">胡翔耘</span></p>
+  <h1 class="visually-hidden">XiangyunHu - PhD student at the Institute of Automation, Chinese Academy of Sciences</h1>
+  <p class="display-name" aria-hidden="true">XiangyunHu</p>
   <p class="lead">I am completing my undergraduate degree in Intelligent Sensing Engineering at Southeast University, and will join the Institute of Automation, Chinese Academy of Sciences as a PhD student in 2027.</p>
   <p>My research interests lie in visual intelligence and multimodal learning. My work so far has spanned perception and decision-making for autonomous driving, physical simulation for additive manufacturing, and learning-based trajectory generation for rehabilitation.</p>
 </section>
@@ -80,7 +80,7 @@ description: "Undergraduate in Intelligent Sensing Engineering at Southeast Univ
     <div class="education-entry__body">
       <p class="education-entry__when">From 2027</p>
       <h3 itemprop="name">Institute of Automation, Chinese Academy of Sciences</h3>
-      <p itemprop="description">Incoming PhD student</p>
+      <p itemprop="description">PhD student</p>
     </div>
   </article>
 </section>
