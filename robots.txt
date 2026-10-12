@@ -1,0 +1,21 @@
+# Keep the whole site out of search engine indexes.
+#
+# Two mechanisms are in play and both are needed:
+#
+#   1. This file asks crawlers not to fetch anything.
+#   2. Every page carries <meta name="robots" content="noindex, ...">.
+#
+# The meta tag is what actually removes a page from an index. This file alone
+# would be counterproductive: a crawler that honours Disallow never fetches the
+# page, so it never sees the noindex directive, and a page that is already
+# indexed can stay listed with no content.
+#
+# This is not access control. The site remains publicly readable by anyone with
+# the URL; search engines are simply asked to leave it alone.
+#
+# To publish the site again: delete this file, delete the robots meta block in
+# _includes/head.html, then request re-crawling in Google Search Console and
+# Bing Webmaster Tools.
+
+User-agent: *
+Disallow: /

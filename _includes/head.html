@@ -2,6 +2,22 @@
 
 <meta charset="utf-8">
 
+{% comment %}
+  Keep the site out of search results.
+
+  `noindex` is the directive that actually removes a page from an index, and it
+  is read from the page itself. robots.txt (see the root robots.txt) only asks
+  crawlers not to fetch, which on its own would leave a page indexed without its
+  content - so both are used.
+
+  This hides the page from search engines; it does not make it private. Anyone
+  given the URL can still open it. To publish again, delete this block and
+  robots.txt, then ask search engines to re-crawl.
+{% endcomment %}
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet">
+<meta name="bingbot" content="noindex, nofollow, noarchive, nosnippet">
+
 {% include seo.html %}
 
 {% comment %}
